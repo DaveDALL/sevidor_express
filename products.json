@@ -1,0 +1,92 @@
+[
+  {
+    "id": "lhjtg1ta0.b78169fcbd32",
+    "code": "abc123",
+    "title": "producto prueba1",
+    "description": "Este es un producto prueba1",
+    "thumbnail": "Sin imagen1",
+    "price": 200,
+    "stock": 25
+  },
+  {
+    "id": "lhjtsa9h0.2538265a71cd",
+    "code": "abc789",
+    "title": "producto prueba 2",
+    "description": "Este es un producto prueba2",
+    "thumbnail": "Sin imagen2",
+    "price": 350,
+    "stock": 10
+  },
+  {
+    "id": "lhjtsa9z0.2538267b77ck",
+    "code": "abc546",
+    "title": "producto prueba 3",
+    "description": "Este es un producto prueba3",
+    "thumbnail": "Sin imagen3",
+    "price": 250,
+    "stock": 15
+  },
+  {
+    "id": "lmjtg4ma0.k78p469fcbz3",
+    "code": "abc234",
+    "title": "producto prueba4",
+    "description": "Este es un producto prueba4",
+    "thumbnail": "Sin imagen4",
+    "price": 500,
+    "stock": 5
+  },
+  {
+    "id": "6nikg1ta3.u718160ljdl4",
+    "code": "abc678",
+    "title": "producto prueba5",
+    "description": "Este es un producto prueba5",
+    "thumbnail": "Sin imagen5",
+    "price": 100,
+    "stock": 35
+  },
+  {
+    "id": "845kg1haa.f718j60ludh6",
+    "code": "abc320",
+    "title": "producto prueba6",
+    "description": "Este es un producto prueba6",
+    "thumbnail": "Sin imagen6",
+    "price": 450,
+    "stock": 5
+  },
+  {
+    "id": "l67tg4ma7.s67p46afcbz2",
+    "code": "abc097",
+    "title": "producto prueba7",
+    "description": "Este es un producto prueba7",
+    "thumbnail": "Sin imagen7",
+    "price": 80,
+    "stock": 17
+  },
+  {
+    "id": "xlt8j4113.kk1q5fzcd766",
+    "code": "abc458",
+    "title": "producto prueba8",
+    "description": "Este es un producto prueba8",
+    "thumbnail": "Sin imagen8",
+    "price": 120,
+    "stock": 11
+  },
+  {
+    "id": "3868j4lor.dj1q5f983fyy",
+    "code": "abc923",
+    "title": "producto prueba9",
+    "description": "Este es un producto prueba9",
+    "thumbnail": "Sin imagen9",
+    "price": 120,
+    "stock": 11
+  },
+  {
+    "id": "lk63jglo6.r41hhf2a36yp",
+    "code": "abc107",
+    "title": "producto prueba10",
+    "description": "Este es un producto prueba10",
+    "thumbnail": "Sin imagen10",
+    "price": 230,
+    "stock": 9
+  }
+]
